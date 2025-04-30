@@ -1,4 +1,3 @@
-Here’s the updated README content with the **Methodology** section included:
 
 ---
 
