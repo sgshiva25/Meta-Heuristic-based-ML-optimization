@@ -87,8 +87,8 @@ To run these notebooks, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pet-bottle-metaheuristics.git
-   cd pet-bottle-metaheuristics
+   git clone https://github.com/sgshiva25/Meta-Heuristic-based-ML-optimization.git
+   cd Meta-Heuristic-based-ML-optimization
    ```
 
 2. Open the desired notebook:
